@@ -1,4 +1,5 @@
 
+![banner](./readme-banner.jpg)
 ### Hi there 👋
 I'm Saima Anis and I am a Freelance Full-stack Developer, with the knowledge of 
 
@@ -16,5 +17,5 @@ I'm currently looking for opportunies to work remotely
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![banner](./readme-banner.jpg)
+
 -->
