@@ -1,7 +1,7 @@
 
 ![banner](https://github.com/saimaAnis21/saimaAnis21/blob/main/my_banner.jpg)
 ### Hi there 👋
-I'm Saima Anis and I am a Freelance Full-stack Developer, currently looking for opportunies to work remotely.
+I'm Saima Anis and I am a Full-stack Developer, currently looking for opportunies to work remotely.
 
 <h3>Skills</h3>
 <p>
