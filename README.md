@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-👋 Hi there, I'm Saima, a passionate Full Stack Developer with 2 years of hands-on experience in crafting dynamic web applications and solutions. My journey in the tech world has been guided by a profound affinity for JavaScript and its ecosystem, including React.js, Next.js, Node.js, and GraphQL.
+I'm Saima, a passionate Full Stack Developer with 2 years of hands-on experience in crafting dynamic web applications and solutions. My journey in the tech world has been guided by a profound affinity for JavaScript and its ecosystem, including React.js, Next.js, Node.js, and GraphQL.
 
 🚀 Throughout my professional journey, I've had the privilege to work on diverse projects, honing my skills in both frontend and backend development. My expertise in creating seamless user experiences using React.js and Next.js has led to the development of engaging and performant web interfaces. On the backend, I've harnessed the power of Node.js to build scalable and robust server-side applications, utilizing GraphQL to efficiently manage data queries and mutations
 
@@ -18,7 +18,6 @@
 <p>
 <a href="https://www.linkedin.com/in/saima-anis/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/saimaAnis21" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/SheTALKS6" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 
